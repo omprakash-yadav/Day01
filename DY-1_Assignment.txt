@@ -1,3 +1,10 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP1:
+* HTTP1 basic operation like UPT,DELETE,Link and Unlink mathods  is supported.
+* Internet landscape was constantly changing with websites becoming more dynamicaly
+* Feeatures like CORS(cross origin resourse shering) keep-alive was introduced in this update
+
 HTTP2:
 * HTTP2 is much faster and more reliable than HTTP1
 * HTTP2 avoids network delay by using multiplexing
