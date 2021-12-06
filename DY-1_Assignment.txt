@@ -1,0 +1,16 @@
+HTTP2:
+* HTTP2 is much faster and more reliable than HTTP1
+* HTTP2 avoids network delay by using multiplexing
+* HTTP2 a protocol for greater performance
+
+
+Write a blog about objects and its internal representation in Javascript
+
+In real life object is an entity having state and behavior. 
+For example: car, pen, bike, chair, glass, keyboard, monitor etc. 
+In the same way JavaScript also has objects
+with properties as state and methods as behavior and they are represented in the form of
+
+Creating Objects in JavaScript:
+*By object literal
+*By creating instance of Object directly (using new keyword)
